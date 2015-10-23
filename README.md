@@ -7,3 +7,4 @@ Corpus is a corpus linguistics library for Haskell. Below is a summary of curren
 | `palindrome`      | checks if a word is a palindrome or not | 
 | `averageLength`   | finds the average length of words in a list of words | 
 | `splitTokenize`   | primitive parsing function for input |
+| `addWord`         | adds a word to a list if the word is not already in the list |
