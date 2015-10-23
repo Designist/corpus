@@ -1,4 +1,4 @@
--- palindrome : [a] -> Bool
+-- palindrome :: Eq a => [a] -> Bool
 -- I/P : word, a list of characters
 -- O/P : true, if word is a palindrome
 --       false, otherwise
