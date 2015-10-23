@@ -1,6 +1,6 @@
-# CORPUS
+# Corpus Linguistics in Haskell
 
-Corpus is a corpus linguistics library for Haskell. Below is a summary of current procedures in this library.
+A corpus linguistics library for Haskell. Below is a summary of current procedures in this library.
 
 | **Procedure name** | Purpose                            | 
 | ----------------- | ---------------------------------- | 
