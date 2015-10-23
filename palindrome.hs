@@ -1,1 +1,1 @@
-let palindrome word = word == reverse word
+palindrome word = word == reverse word
