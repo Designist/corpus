@@ -9,3 +9,4 @@ A corpus linguistics library for Haskell. Below is a summary of current procedur
 | `splitTokenize`   | primitive parsing function for input |
 | `addWord`         | adds a word to a list if the word is not already in the list |
 | `removeDuplicates`| removes the duplicates in a list of words |
+| `typeToken`       | the number of unique tokens over the total number of tokens |
