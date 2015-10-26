@@ -1,3 +1,5 @@
+-- | Finds the average length of words in a list of words.
+
 module AverageLength where
 
 -- averageLength :: (Fractional a, Foldable t) => [t a1] -> a
