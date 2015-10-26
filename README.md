@@ -1,15 +1,15 @@
 # Corpus Linguistics in Haskell
 ===============================
 
-Procedures
-----------
-
 Corpora
 -------
 
 | **Corpus Name** | File Name    | Description                             |
 | -------------   | ------------ | --------------------------------------- |
 | Brown Corpus    | `brown.txt`  | One million words; no tags or line numbers |
+
+Procedures
+----------
 
 | **Procedure Name** | Purpose                            | 
 | ------------------ | ---------------------------------- | 
