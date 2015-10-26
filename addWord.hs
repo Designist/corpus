@@ -1,3 +1,5 @@
+-- | Adds a word to a list if the word is not already in the list.
+
 module AddWord where
 
 -- addWord :: Eq a => a -> [a] -> [a]

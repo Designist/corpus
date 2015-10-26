@@ -1,3 +1,5 @@
+-- | Finds the frequency map of a list of words.
+
 module FreqList where
 
 import Data.Map (Map)

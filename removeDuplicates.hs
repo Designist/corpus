@@ -1,4 +1,7 @@
+-- | Removes the duplicates in a list of words
+
 module RemoveDuplicates where
+
 import AddWord
 
 -- removeDuplicates :: (Eq a, Foldable t) => t a -> [a]
