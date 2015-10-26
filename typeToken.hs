@@ -1,7 +1,10 @@
+-- | The number of unique tokens over the total number of tokens.
+
 module TypeToken where
 
-import qualified Data.Set
 import SplitTokenize
+
+import qualified Data.Set
 
 -- typeToken ::
 -- I/P : str, a string of text
