@@ -1,3 +1,5 @@
+-- | Primitive parsing function for input.
+
 module SplitTokenize where
 
 -- splitTokenize :: String -> [[String]]
