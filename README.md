@@ -1,5 +1,4 @@
 # Corpus Linguistics in Haskell
-===============================
 
 Corpora
 -------
