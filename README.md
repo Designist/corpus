@@ -4,6 +4,13 @@
 Procedures
 ----------
 
+Corpora
+-------
+
+| **Corpus Name** | File Name    | Description                             |
+| -------------   | ------------ | --------------------------------------- |
+| Brown Corpus    | `brown.txt`  | One million words; no tags or line numbers |
+
 | **Procedure Name** | Purpose                            | 
 | ------------------ | ---------------------------------- | 
 | `addWord`          | adds a word to a list if the word is not already in the list |
@@ -16,10 +23,3 @@ Procedures
 | `skipBigrams`      | finds sentence-order tuples of a list of words |
 | `splitTokenize`    | primitive parsing function for input |
 | `typeToken`        | the number of unique tokens over the total number of tokens |
-
-Corpora
--------
-
-| **Corpus Name** | File Name    | Description                             |
-| -------------   | ------------ | --------------------------------------- |
-| Brown Corpus    | `brown.txt`  | One million words; no tags or line numbers |
