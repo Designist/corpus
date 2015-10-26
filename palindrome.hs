@@ -1,3 +1,5 @@
+-- | Checks if a word is a palindrome or not.
+
 module Palindrome where
 
 -- palindrome :: Eq a => [a] -> Bool
