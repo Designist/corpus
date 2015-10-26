@@ -1,3 +1,5 @@
+-- | Finds all sentence-order tuples of words in a list.
+
 module SkipBigrams where
 
 -- I/P : alow, a list of words
