@@ -17,6 +17,7 @@ Procedures
 | `averageLength`    | finds the average length of words in a list of words |
 | `bigram`           | finds bigrams of a list of words |
 | `freqList`         | finds the frequency map of a list of words |
+| `ngrams`           | generates a list of ngrams in a given list of data |
 | `palindrome`       | checks if a word is a palindrome or not |
 | `removeDuplicates` | removes the duplicates in a list of words |
 | `skipBigrams`      | finds sentence-order tuples of a list of words |
