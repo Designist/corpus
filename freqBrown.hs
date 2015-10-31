@@ -1,4 +1,4 @@
--- | Finds the number of tiems a word appears in the Brown corpora.
+-- | Finds the number of times a word appears in the Brown corpora.
 
 module FreqBrown where
 
