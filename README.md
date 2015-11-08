@@ -16,6 +16,7 @@ Procedures
 | `addWord`          | adds a word to a list if the word is not already in the list |
 | `averageLength`    | finds the average length of words in a list of words |
 | `bigram`           | finds bigrams of a list of words |
+| `freqBigram`       | finds the frequency map of a list of bigrams |
 | `freqList`         | finds the frequency map of a list of words |
 | `ngrams`           | generates a list of ngrams in a given list of data |
 | `palindrome`       | checks if a word is a palindrome or not |
