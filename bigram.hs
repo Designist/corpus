@@ -5,5 +5,6 @@ module Bigram where
 -- I/P : alow, a list of words
 -- O/P : the bigrams of alow
 bigram :: [a] -> [[a]]
-bigram [] = []
-bigram alow = take 2 alow : bigram (tail alow)
+bigram []  = []
+bigram [_] = []
+bigram xs = take 2 xs : bigram (tail xs)
